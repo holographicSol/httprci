@@ -357,7 +357,7 @@ def get(code=int, display=int):
     display=int(2) = Return formatted long results (multi line)
     display=int(3) = Return formatted short results (single line)
 
-    Example: httprci.get(200, display=int(2))
+    Example: httprci.get(200, display=int(3))
 
     """
 
